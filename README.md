@@ -1,6 +1,3 @@
-# FeedRSS.github.io
-
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
