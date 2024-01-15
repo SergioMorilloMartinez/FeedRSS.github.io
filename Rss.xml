@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>Mi primera feed RSS</title>
+<link>https://github.com/SergioMorilloMartinez/FeedRSS.github.io</link>
+<description>Mi primera Feed RSS</description>
+<language>es</language>
+<ttl>60</ttl>
+<lastBuildDate>Wed, 10 Jan 2024 14:00:00 PST</lastBuildDate>
+<copyright>© 2024 GitHub, Inc.</copyright>
+<category>Noticias informática</category>
+<webMaster>a23momase@iesgrancapitan.org(Sergio Morillo)</webMaster>
+<skipDays>
+ <day>Sunday</day>
+</skipDays>
+<skipHours>
+  <hour>00</hour>
+</skipHours>
+<rating>G</rating>
+<item>
+<title>Cómo mejorar la batería de los portátiles con Windows 11</title>
+<link>https://cincodias.elpais.com/noticias/sistemas-operativos/</link>
+<description>Sirve para usuarios que necesiten mas bateria en su dispositivo.</description>
+<pubDate>Thu, 11 Jan 2024 12:58:00 PST</pubDate>
+<category>hardware/optimización</category>
+<guid isPermaLink="true">https://cincodias.elpais.com/noticias/sistemas-operativos/</guid>
+</item>
+<item>
+<title>Nuevo convertible Spectre en el mercado</title>
+<link>https://www.muycomputer.com/noticias/</link>
+<description>El mejor convertible en el mercado.</description>
+<pubDate>Thu, 11 Jan 2024 12:00:00 PST</pubDate>
+<category>Nuevos productos</category>
+<guid isPermaLink="true">https://www.muycomputer.com/noticias/</guid>
+</item>
+<item>
+<title>El mejor SSD externo gaming de 2024</title>
+<link>https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html</link>
+<description>Una buena opción para gaming.</description>
+<category>Nuevos productos/gaming/ingles</category>
+<pubDate>Sun, 14 Jan 2024 11:32:00 PST</pubDate>
+<guid isPermaLink="true">https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html</guid>
+</item>
+<item>
+<title>Configura el modo WISP del ASUS RT-AX57 Go y conéctate a cualquier red WiFi</title>
+<link>https://www.redeszone.net/marcas/asus/configurar-rt-ax57-go-modo-wisp-conectar-wifi/</link>
+<category>optimización</category>
+<pubDate>Sun, 14 Jan 2024 11:32:00 PST</pubDate>
+<guid isPermaLink="true">https://www.redeszone.net/marcas/asus/configurar-rt-ax57-go-modo-wisp-conectar-wifi/</guid>
+</item>
+<item>
+<title>Menos núcleos y más caché: este es el mejor procesador Intel para juegos</title>
+<link>https://hardzone.es/noticias/procesadores/mejor-procesador-intel-para-juegos/?_gl=1%2abzghgb%2a_up%2aMQ..%2a_ga%2aNjA4NjU5NDUwLjE3MDUzMjE4NjU.%2a_ga_QPM9B7CVR8%2aMTcwNTMyMTg2NC4xLjAuMTcwNTMyMTg2NC4wLjAuMA..</link>
+<description>Un nuevo procesador con mayor memoria cache.</description>
+<category>Nuevos productos/gaming</category>
+<pubDate>Sun, 14 Jan 2024 11:32:00 PST</pubDate>
+<guid isPermaLink="true">https://hardzone.es/noticias/procesadores/mejor-procesador-intel-para-juegos/?_gl=1%2abzghgb%2a_up%2aMQ..%2a_ga%2aNjA4NjU5NDUwLjE3MDUzMjE4NjU.%2a_ga_QPM9B7CVR8%2aMTcwNTMyMTg2NC4xLjAuMTcwNTMyMTg2NC4wLjAuMA</guid>
+</item>
+</channel>
+</rss>
